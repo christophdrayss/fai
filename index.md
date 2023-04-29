@@ -68,7 +68,7 @@ Other topics
 
 ### Regulatory Notifications to Authorities
 
-Deep dive into notifications to German Bafin and Bundesbank: [notifications](notifications.md)
+Deep dive into notifications to German Bafin and Bundesbank: [Notifications](notifications.md)
 
 ### Anti-Money Laundry
 
