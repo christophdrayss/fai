@@ -81,7 +81,7 @@ According to European SFDR, there are different fund types:
 - Articles 8 Funds: ESG Funds
 - Articles 9 Funds: Impact Funds
 
-[Dive deeper](aml.md)
+[ESG Deep Dive](esg.md)
 
 ### Tax
 
