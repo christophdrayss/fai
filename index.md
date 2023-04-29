@@ -85,7 +85,7 @@ According to European SFDR, there are different fund types:
 
 ### Tax
 
-Deep dive into tax declaration and requirements for investors: [tax](tax.md)
+Deep dive into tax declaration and requirements for investors: [Tax](tax.md)
 
 ## Preprocessed Laws
 
